@@ -1,7 +1,7 @@
 
 /*
     Hola, realice un "piedra, papel, tijera".
-    Deje comentarios en varias lineas tener una idea, tanto para mi como para el que lea
+    Deje comentarios en varias lineas para tener una idea, tanto para mi como para el que lea
  
     */
 
